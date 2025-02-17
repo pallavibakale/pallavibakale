@@ -32,14 +32,14 @@ I'm a **Front-end Developer** transitioning into **AI & Data Science**, bringing
 ---
 
 ### 📈 GitHub Stats  
-![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pallavibakale&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibakale&layout=compact&theme=radical)  
 
 ---
 
 ### 🔥 Contribution Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=pallavibakale&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pallavibakale&theme=radical)  
 
 ---
 
