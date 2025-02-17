@@ -40,7 +40,6 @@ I'm a **Front-end Developer** transitioning into **AI & Data Science**, bringing
 ### 🔥 Contribution Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pallavibakale&theme=radical)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pallavibakale&theme=radical)  
-![GitHub Contribution Graph](https://github.com/pallavibakale/github-profile-3d-contrib/blob/main/profile-3d-contrib.svg)
 
 
 ---
