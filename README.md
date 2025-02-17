@@ -19,9 +19,6 @@ Welcome to my GitHub! I'm a passionate Computer Science graduate student at Purd
 - 💡 Interested in NLP, ML, and Software Engineering  
 - 🚀 Building projects with Python, Java, and JavaScript  
 
-### Technologies & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
