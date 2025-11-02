@@ -39,13 +39,13 @@ I'm a **Front-end Developer** transitioning into **AI & Data Science**, bringing
 
 ### 🔥 Contribution Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pallavibakale&theme=radical)  
-// ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pallavibakale&theme=radical)  
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pallavibakale&theme=radical)  -->
 
 
 ---
 
 ### 📌 Pinned Projects  
-🔹 [Temple Management: A full-stack application](#) 🛕
+🔹 [Temple Management: A full-stack application](#) 🛕    
 🔹 [RideLink: Campus Transportation Web App](#) 🚗  
 🔹 [Simplifying Terms of Service with NLP](#) 📝  
 🔹 [ClearBin: AI-powered Waste Urgency System](#) ♻️  
